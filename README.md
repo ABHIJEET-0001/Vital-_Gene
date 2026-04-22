@@ -112,12 +112,8 @@ The system currently provides Level A clinical guidance for:
 -   **Local Processing**: The primary pharmacogenomic mapping happens on the client-side for maximum performance and security.
 
 ---
-
-## 👨‍💻 Author
-
-**Vatsal Goyal**
-- GitHub: [@Vatsalgoyal7](https://github.com/Vatsalgoyal7)
-- Email: vatsalgoyal71@gmail.com
+abhijeetkasera08@gmail.com
+- https://github.com/ABHIJEET-0001
 - Organization: Nakshatra 2026
 
 ---
